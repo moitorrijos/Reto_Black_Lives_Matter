@@ -1,0 +1,25 @@
+Guía de Estilos
+
+Detalles de los colores están creados en las variables CSS, mira el archivo "style.css".
+
+/*Global*/
+/* Propiedades Personalizadas */
+:root{
+    --main-bg-color: #F9E492;
+    --main-color: #191919;
+}
+La imagen "resultado_final.png" es la referencia visual de cómo debe quedar al final el proyecto.
+
+El dibujo ocupa un espacio de:
+width: 130px;
+height: 145px;
+
+Los cuatro dedos de la parte superior estan en un espacio de 96px x 55px.
+La palma de la mano en 106px x 40px
+La muñeca mide 51px x 45px
+
+
+Si tienes dudas adiconales me puedes contactar a: jair@cooltimedia.com
+
+Gracias por participar.
+Te deseamos los mejor.
